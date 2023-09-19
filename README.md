@@ -11,7 +11,7 @@ _This educational project does not implement the assignment exactly and is only 
 
 [[Full assignment here]](https://ssd.sscc.ru/sites/default/files/content/attach/343/parallel_lab1_2020.pdf)
 
-## 2. Matrix multiplier using OpenMP
+## 2. Parallel matrix multiplier using OpenMP
 
 **Параллельная реализация решения системы линейных алгебраическихуравнений с помощью OpenMP.**
 
