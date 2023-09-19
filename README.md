@@ -6,20 +6,25 @@ The C++ implementation of the well-known Linpack Test, which is used to test the
 *This educational project does not implement the assignment exactly and is only inspired by it!*
 
 **Параллельная реализация решения системы линейных алгебраических уравнений с помощью MPI.**
+
 [Full assignment](https://ssd.sscc.ru/sites/default/files/content/attach/343/parallel_lab1_2020.pdf).
 ***
 ## Matrix multiplier using OpenMP
 **Параллельная реализация решения системы линейных алгебраическихуравнений с помощью OpenMP.**
+
 [Full assignment](https://ssd.sscc.ru/sites/default/files/content/attach/343/parallel_lab2_2020.pdf).
 ***
 ## Parallel matrix multiplier on 2D lattice using MPI
 **Умножение матрицы на матрицу в MPI 2D решетка.**
+
 [Full assignment](https://ssd.sscc.ru/sites/default/files/content/attach/343/parallel_lab3_2020.pdf).
 ***
 ## Jacobi method solver using MPI
 **Параллельная реализация метода Якоби в трехмерной области.**
+
 [Full assignment](https://ssd.sscc.ru/sites/default/files/content/attach/343/parallel_lab4_2020.pdf).
 ***
 ## Load balancer 
 **Программирование многопоточных приложений. POSIX Threads.**
+
 [Full assignment](https://ssd.sscc.ru/ru/content/opplabs/loadbalancing).
