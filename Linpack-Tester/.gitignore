@@ -1,0 +1,9 @@
+.idea
+cmake-build-debug
+/cmake-build-debug
+/cmake-build-debug/
+\cmake-build-debug
+/cmake-build-debug/
+.git
+exec
+memory_check
